@@ -1,4 +1,5 @@
 SQL Database Scripts – Coursework Project
+
 📌 About
 
 This repository contains SQL database definitions and scripts created for coursework and database design practice. It includes the schema and associated SQL commands for building and interacting with a relational database structure, as well as supporting files such as reports and screenshots.
